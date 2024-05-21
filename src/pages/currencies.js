@@ -11,6 +11,7 @@ const Currencies = (props) => {
         { name: "Dash", symbol: "DASH" },
         { name: "Ripple", symbol: "XRP" },
         { name: "Zcash", symbol: "ZEC" },
+        { name: "Dogecoin", symbol: "DOGE"},
   ];
 
   return (
